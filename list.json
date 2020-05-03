@@ -1,0 +1,86 @@
+{ 
+    "list":
+    [
+        {
+            "serialnumber":"1",
+            "items":"Rice",
+            "quantity":"10",
+            "unit":"Kilogram",
+            "department":"Grains",
+            "notes":"Nirapara Matta Rice"
+        },
+        {
+            "serialnumber":"2",
+            "items":"Sugar",
+            "quantity":"3",
+            "unit":"Kilogram",
+            "department":"Grocery",
+            "notes":"White Sugar"
+        },
+        {
+            "serialnumber":"3",
+            "items":"Milk",
+            "quantity":"2",
+            "unit":"Litre",
+            "department":"Dairy Products",
+            "notes":"Milma Full Fat"
+        },
+        {
+            "serialnumber":"4",
+            "items":"Curd",
+            "quantity":"500",
+            "unit":"Millilitre",
+            "department":"Dairy Products",
+            "notes":"Milky Mist Full Fat"
+        },
+        {
+            "serialnumber":"5",
+            "items":"Green Gram",
+            "quantity":"1",
+            "unit":"Kilogram",
+            "department":"Pulses",
+            "notes":"Check Expiry Date"
+        },
+        {
+            "serialnumber":"6",
+            "items":"Mustard",
+            "quantity":"100",
+            "unit":"Gram",
+            "department":"Spices",
+            "notes":"Kitchen Treasures"
+        },
+        {
+            "serialnumber":"7",
+            "items":"Carrot",
+            "quantity":"500",
+            "unit":"Gram",
+            "department":"Vegetables",
+            "notes":"Fresh"
+        },
+        {
+            "serialnumber":"8",
+            "items":"Cucumber",
+            "quantity":"500",
+            "unit":"Gram",
+            "department":"Vegetables",
+            "notes":"Salad Cucumber"
+        },
+        {
+            "serialnumber":"9",
+            "items":"Apple",
+            "quantity":"1",
+            "unit":"Kilogram",
+            "department":"Fruits",
+            "notes":"Royal Gala Apple"
+        },
+        {
+            "serialnumber":"10",
+            "items":"Sanitizer",
+            "quantity":"100",
+            "unit":"Millilitre",
+            "department":"Pharmaceuticals",
+            "notes":"Dettol"
+        }
+    ]
+}
+
